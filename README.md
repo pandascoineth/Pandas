@@ -5,6 +5,7 @@ Open source codes for Pandee Ecosystem. LET's BUDL!
 
 ## Official Links
 
+- Contract address: [0x355264be7067026091f6F3e2c81FC50466f1e555](https://bscscan.com/token/0x355264be7067026091f6F3e2c81FC50466f1e555)
 - Website: https://pandee.xyz
 - Twitter: https://twitter.com/pandeecoin
 - Telegram: https://t.me/pandeecoin
