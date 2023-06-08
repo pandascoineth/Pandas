@@ -1,2 +1,2 @@
-# Pandee
+Pandee
 Pandee coin open-source codes
