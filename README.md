@@ -13,7 +13,7 @@ Open source codes for Pandee Ecosystem. LET's BUDL!
 
 ## About $PANDEE
 
-- Idea from famous panda meme, building active meme community on Ethereum.
+- Idea from famous panda meme, building active meme community on BSC.
 - 0 / 0 Tax, No team token allocation, token contract renounced.
 - Building DeFi, SocialFi, and DAO driven from strong community.
 
