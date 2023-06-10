@@ -5,7 +5,7 @@ Open source codes for Pandee Ecosystem. LET's BUDL!
 
 ## Official Links
 
-- Contract address: [0x355264be7067026091f6F3e2c81FC50466f1e555](https://bscscan.com/token/0x355264be7067026091f6F3e2c81FC50466f1e555)
+- Contract address: [will be announced!](https://etherscan.io/token/)
 - Website: https://pandee.xyz
 - Twitter: https://twitter.com/pandeecoin
 - Telegram: https://t.me/pandeecoin
@@ -14,7 +14,7 @@ Open source codes for Pandee Ecosystem. LET's BUDL!
 
 ## About $PANDEE
 
-- Idea from famous panda meme, building active meme community on BSC.
+- Idea from famous panda meme, building active meme community on Ethereum.
 - 0 / 0 Tax, No team token allocation, token contract renounced.
 - Building DeFi, SocialFi, and DAO driven from strong community.
 
