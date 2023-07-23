@@ -1,4 +1,4 @@
-!['logo'](public/pandee.jpeg)
+!['logo'](public/pandas.jpeg)
 # Pandee
 
 Open source codes for Pandee Ecosystem. LET's BUDL!
