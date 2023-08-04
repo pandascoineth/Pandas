@@ -5,10 +5,10 @@ Open source codes for Pandee Ecosystem. LET's BUDL!
 
 ## Official Links
 
-- Contract address: [0x33dC76AC6548143C2AE9a600AdC31E245868546E](https://etherscan.io/token/0x33dC76AC6548143C2AE9a600AdC31E245868546E)
+- Contract address: [0x5eAE7BcF99E6A479E9E2438cb407cDa87833e928](https://etherscan.io/token/0x5eAE7BcF99E6A479E9E2438cb407cDa87833e928)
 - Website: https://pandascoin.vip
 - Twitter: https://twitter.com/pandascoineth
-- Telegram: https://t.me/pandascoineth
+- Telegram: https://t.me/pandascoin
 - Whitepaper: https://docs.pandascoin.vip
 
 ## About $PANDAS
